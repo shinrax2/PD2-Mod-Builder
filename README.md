@@ -27,4 +27,7 @@ rename config.sample.json to your liking and replace the values with real ones
 - copy_dirs: list of folders to copy for your mod relative to moddir
 
 for windows users:
-either use forward slahes or double backslashes for your paths e.g. "c:/windows" or "c:\\windows" not "c:\windows"
+
+either use forward slahes or double backslashes for your paths 
+
+e.g. "c:/windows" or "c:\\windows" not "c:\windows"
