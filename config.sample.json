@@ -1,0 +1,15 @@
+{
+	"moddir": "c:/path/to/moddir",
+	"builddir": "c:/path/to/builddir",
+	"metafile": "c:/path/to/metafile.json",
+	"metaident": "YourModUpdateIdentifier",
+	"zipfile": "ModZipFileNameWithoutExtension",
+	"zipdir": "c:/path/to/where/the/zipfile/will/be/saved",
+	"copy_files": [
+		"file1.lua",
+		"mod.txt"
+	],
+	"copy_dirs": [
+		"loc"
+	]
+}
