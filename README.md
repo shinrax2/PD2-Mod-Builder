@@ -25,3 +25,6 @@ rename config.sample.json to your liking and replace the values with real ones
 - zipdir: absolute path to where the zip file will be written
 - copy_files: list of files to copy for your mod relative to moddir
 - copy_dirs: list of folders to copy for your mod relative to moddir
+
+for windows users:
+either use forward slahes or double backslashes for your paths e.g. "c:/windows" or "c:\\windows" not "c:\windows"
