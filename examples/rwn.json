@@ -1,0 +1,16 @@
+{
+	"moddir": "C:/Users/shinrax2/Documents/GitHub/PD2-Real-Weapon-Names",
+	"builddir": "C:/build/Real Weapon Names",
+	"metafile": "C:/Users/shinrax2/Documents/GitHub/PD2-Real-Weapon-Names/meta.json",
+	"metaident": "RealWeaponNames",
+	"zipfile": "RWN",
+	"zipdir": "C:/Users/shinrax2/Documents/GitHub/PD2-Real-Weapon-Names",
+	"copy_files": [
+		"mod.txt",
+		"LICENSE.txt",
+		"RWN.png"
+	],
+	"copy_dirs": [
+		"lua"
+	]
+}

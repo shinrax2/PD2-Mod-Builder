@@ -1,0 +1,17 @@
+{
+	"moddir": "C:\\Users\\shinrax2\\Documents\\GitHub\\IGWSC",
+	"builddir": "C:\\build\\InGameWaitingStatusColor",
+	"metafile": "C:\\Users\\shinrax2\\Documents\\GitHub\\IGWSC\\updates\\meta.json",
+	"metaident": "IGWSC",
+	"zipfile": "IGWSC",
+	"zipdir": "C:\\Users\\shinrax2\\Documents\\GitHub\\IGWSC\\updates",
+	"copy_files": [
+		"mod.txt",
+		"igwsc.png"
+	],
+	"copy_dirs": [
+		"lua",
+		"loc",
+		"menu"
+	]
+}

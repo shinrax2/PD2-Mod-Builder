@@ -153,3 +153,4 @@ cython_debug/
 
 *.json
 !config.sample.json
+!examples/*.json
