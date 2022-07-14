@@ -30,4 +30,4 @@ for windows users:
 
 either use forward slahes or double backslashes for your paths 
 
-e.g. "c:/windows" or "c:\\windows" not "c:\windows"
+e.g. "c:/windows" or "c:\\\\windows" not "c:\windows"
